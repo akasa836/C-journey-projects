@@ -44,10 +44,11 @@ int main(){
     
     
     
-    printf("resistance series: %.2lf" , resistanceSeries);    // OUTPUT OF RESISTANCE IN SERIES 
-    printf("resistance paralle: %.2lf", resistanceParallel);  // OUTPUT OF RESISTANCE IN PARALLEL
+    printf("resistance series: %.2lfohm" , resistanceSeries);    // OUTPUT OF RESISTANCE IN SERIES 
+    printf("resistance paralle: %.2lfohm", resistanceParallel);  // OUTPUT OF RESISTANCE IN PARALLEL
 
 
 
     return 0;
 }
+
